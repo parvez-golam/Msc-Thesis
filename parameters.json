@@ -1,0 +1,20 @@
+{
+    "normalization_method": [ "None", "minmax", "zscore" ],
+    "test_split": [0.2,0.3,0.4],
+    "batch_size": [32, 64],
+    "epochs": [5],
+    "max_steps_per_epoch": [10000],
+    "learning_rate": [0.001], 
+    "model_params": {
+        "rnn": {
+            "layers": [1, 2, 4],
+            "units": [32, 64, 128],
+            "return_sequence": [true, false]
+        },
+        "lstm": {
+            "layers": [1, 2, 4],
+            "units": [32, 64, 128], 
+            "return_sequence": [true, false]
+        }
+    }
+}
