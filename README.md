@@ -16,6 +16,8 @@ indicating a post-pandemic change in energy demand.
 
 "Hyperparameter_evaluation.ipynb" this file evaluates the results for different hyperparameters from "results.csv" file and finds the suitable parameters.
 
+"MODELS_DEMAND.ipynb" and "MODELS_WIND.ipynb" notebooks contains the final selected models for energy demand and wind generated energy and the prediction results generated from the models.
+
 
 
 
