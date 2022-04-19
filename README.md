@@ -12,3 +12,7 @@ indicating a post-pandemic change in energy demand.
 
 "parameters.json" contains all the hyperprameters to run the experiment for model selection.
 
+"model_run_main.py" runs the main experiments with all the hyperparameters and the data is saved in "results.csv" file.
+
+
+
