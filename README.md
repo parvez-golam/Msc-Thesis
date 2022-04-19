@@ -10,3 +10,5 @@ indicating a post-pandemic change in energy demand.
 
 "Data_check.ipynb" shows the yearly, monthly, weekly energy demand and wind generated energy data and the statisical comparisons between pre and post pandemic time.
 
+"parameters.json" contains all the hyperprameters to run the experiment for model selection.
+
