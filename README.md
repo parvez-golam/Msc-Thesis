@@ -18,6 +18,8 @@ indicating a post-pandemic change in energy demand.
 
 "MODELS_DEMAND.ipynb" and "MODELS_WIND.ipynb" notebooks contains the final selected models for energy demand and wind generated energy and the prediction results generated from the models.
 
+'fig_out' folder has all the generated ouput visual figures throughout the project.
+
 
 
 
