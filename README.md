@@ -14,5 +14,8 @@ indicating a post-pandemic change in energy demand.
 
 "model_run_main.py" runs the main experiments with all the hyperparameters and the data is saved in "results.csv" file.
 
+"Hyperparameter_evaluation.ipynb" this file evaluates the results for different hyperparameters from "results.csv" file and finds the suitable parameters.
+
+
 
 
