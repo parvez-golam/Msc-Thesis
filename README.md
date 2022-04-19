@@ -8,9 +8,9 @@ investigated the accuracy of RNN and LSTM time series modelling approaches using
 indicating a post-pandemic change in energy demand.
 
 
-"Data_check.ipynb" shows the yearly, monthly, weekly energy demand and wind generated energy data and the statisical comparisons between pre and post pandemic time.
+"Data_check.ipynb" has the data analysys part, it shows the yearly, monthly, weekly energy demand and wind generated energy data and the statisical comparisons between pre and post pandemic time.
 
-"parameters.json" contains all the hyperprameters to run the experiment for model selection.
+"parameters.json" contains all the hyperparameters to run the experiment for model selection.
 
 "model_run_main.py" runs the main experiments with all the hyperparameters and the data is saved in "results.csv" file.
 
